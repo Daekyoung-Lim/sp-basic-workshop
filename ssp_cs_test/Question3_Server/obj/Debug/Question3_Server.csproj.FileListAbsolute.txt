@@ -1,0 +1,7 @@
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\obj\Debug\Question3_Server.csproj.AssemblyReference.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\obj\Debug\Question3_Server.csproj.CoreCompileInputs.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\Question3_Server.exe.config
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\obj\Debug\Question3_Server.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\obj\Debug\Question3_Server.pdb
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\Question3_Server.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Server\Question3_Server.pdb

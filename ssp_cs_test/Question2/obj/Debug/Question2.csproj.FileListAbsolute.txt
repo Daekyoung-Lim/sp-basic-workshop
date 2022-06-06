@@ -1,0 +1,7 @@
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\Question2.exe.config
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\obj\Debug\Question2.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\obj\Debug\Question2.pdb
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\Question2.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question2\Question2.pdb

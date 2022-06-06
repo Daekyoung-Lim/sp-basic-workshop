@@ -1,0 +1,13 @@
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.csproj.CoreCompileInputs.cache
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe.config
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\obj\Debug\Question3_Client.pdb
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.exe
+C:\ssp_workspace\ssp_cs_test_q\Question3_Client\Question3_Client.pdb
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.csproj.AssemblyReference.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.csproj.CoreCompileInputs.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\Question3_Client.exe.config
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\obj\Debug\Question3_Client.pdb
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\Question3_Client.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question3_Client\Question3_Client.pdb

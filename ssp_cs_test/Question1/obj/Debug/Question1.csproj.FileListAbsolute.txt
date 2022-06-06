@@ -1,0 +1,6 @@
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\Question1.exe.config
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\obj\Debug\Question1.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\obj\Debug\Question1.pdb
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\Question1.exe
+D:\TCT\2022\SP_basic\ssp_cs_test\Question1\Question1.pdb
